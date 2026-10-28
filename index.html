@@ -13,11 +13,22 @@
 </head>
 <body><main class="wrap">
 <header><div class="eyebrow">그림과 소리로 배우는</div><h1>千字文 · 천자문</h1><span class="pill" id="lesson-title">제1과 · 제1~4구</span><p>천자문 1,000자를 그림으로 익히고, 한 구절씩 따라 읽어 보세요.</p><div class="lesson-nav"><button id="previous" type="button">이전 단원</button><label for="lesson">단원 선택</label><select aria-label="천자문 단원 선택" id="lesson"></select><button id="next" type="button">다음 단원</button></div></header>
+<section class="card" aria-labelledby="full-title" id="full-reading">
+<h2 id="full-title">1,000자 전체 낭독</h2>
+<p class="note">제1~250구를 처음부터 끝까지 이어서 들어요. 단원 사이에는 짧은 쉼이 있어요.</p>
+<h3 id="full-ko-title">한국어로 한 번에 듣기</h3>
+<audio id="full-ko" aria-labelledby="full-ko-title" controls preload="none"><source src="audio/full-ko.mp3" type="audio/mpeg"/></audio>
+<a class="download" href="audio/full-ko.mp3" download>한국어 전체 음원 저장</a>
+<h3 id="full-zh-title">중국어로 한 번에 듣기</h3>
+<audio id="full-zh" aria-labelledby="full-zh-title" controls preload="none"><source src="audio/full-zh.mp3" type="audio/mpeg"/></audio>
+<a class="download" href="audio/full-zh.mp3" download>중국어 전체 음원 저장</a>
+</section>
+
 <section aria-labelledby="ko-title" class="card"><h2 id="ko-title">한국어 낭독</h2><div class="read" id="ko-text">천지현황 · 우주홍황<br/>일월영측 · 진수열장</div><audio aria-label="제1~4구 한국어 낭독" controls="" id="ko" preload="metadata"><source src="audio/lesson-01-ko.mp3" type="audio/mpeg"/></audio><p><a class="download" download="" href="audio/lesson-01-ko.mp3" id="download-ko">한국어 음원 열기 / 저장</a></p></section>
-<section aria-labelledby="zh-title" class="card"><h2 id="zh-title">중국어 낭독</h2><div class="han" id="zh-text" lang="zh-Hans">天地玄黄 · 宇宙洪荒<br/>日月盈昃 · 辰宿列张</div><p class="py" id="pinyin-text" lang="zh-Latn">tiān dì xuán huáng · yǔ zhòu hóng huāng<br/>rì yuè yíng zè · chén xiù liè zhāng</p><audio aria-label="제1~4구 중국어 낭독" controls="" id="zh" preload="metadata"><source src="audio/lesson-01-zh.mp3" type="audio/mpeg"/></audio><p class="note" id="pronunciation-note">여기에서 宿는 ‘별자리 수’로, xiù라고 읽어요.</p><a class="download" download="" href="audio/lesson-01-zh.mp3" id="download-zh">중국어 음원 열기 / 저장</a></section>
-<section aria-labelledby="control-title" class="card"><h2 id="control-title">듣기 설정</h2><div aria-label="재생속도 선택" id="buttons"></div><label class="control-row" for="speed">속도 미세조절 <input id="speed" max="1.5" min=".5" step=".05" type="range" value="1"/><strong aria-live="polite" id="rate">1.00×</strong></label><label class="control-row"><input id="repeat" type="checkbox"/> 선택한 음원 반복 재생</label><button id="pause" type="button">모두 일시정지</button><button id="restart" type="button">처음부터 다시 듣기</button><p class="note">속도와 반복 설정은 두 음원에 함께 적용돼요. 한 음원을 재생하면 다른 음원은 잠시 멈춰요.</p><p class="note" id="status" role="status"></p></section>
+<section aria-labelledby="zh-title" class="card"><h2 id="zh-title">중국어 낭독</h2><div class="han" id="zh-text" lang="zh-Hans">天地玄黄 · 宇宙洪荒<br/>日月盈昃 · 辰宿列张</div><p class="py" id="pinyin-text" lang="zh-Latn">tiān dì xuán huáng · yǔ zhòu hóng huāng<br/>rì yuè yíng zè · chén xiù liè zhāng</p><audio aria-label="제1~4구 중국어 낭독" controls="" id="zh" preload="metadata"><source src="audio/lesson-01-zh.mp3?v=2" type="audio/mpeg"/></audio><p class="note" id="pronunciation-note">여기에서 宿는 ‘별자리 수’로, xiù라고 읽어요.</p><a class="download" download="" href="audio/lesson-01-zh.mp3" id="download-zh">중국어 음원 열기 / 저장</a></section>
+<section aria-labelledby="control-title" class="card"><h2 id="control-title">듣기 설정</h2><div aria-label="재생속도 선택" id="buttons"></div><label class="control-row" for="speed">속도 미세조절 <input id="speed" max="1.5" min=".5" step=".05" type="range" value="1"/><strong aria-live="polite" id="rate">1.00×</strong></label><label class="control-row"><input id="repeat" type="checkbox"/> 선택한 음원 반복 재생</label><button id="pause" type="button">모두 일시정지</button><button id="restart" type="button">처음부터 다시 듣기</button><p class="note">속도와 반복 설정은 단원별·전체 낭독 음원에 함께 적용돼요. 한 음원을 재생하면 다른 음원은 잠시 멈춰요.</p><p class="note" id="status" role="status"></p></section>
 <section class="card"><h2>오늘의 네 구절</h2><div class="study" id="study"></div></section>
 <section class="card"><h2>교재 내려받기</h2><a class="download" href="cheonjamun-001-250.pdf#page=1" id="download-lesson">이 단원 PDF 보기</a><a class="download" download="" href="cheonjamun-001-250.pdf">제1~250구 전체 교재</a><a class="download" download="" href="cheonjamun-005-250.pdf">제5~250구 이어지는 교재</a><p class="note">교재의 QR을 찍으면 해당 단원이 열려요. 단원을 선택해 언어별 재생속도와 반복 듣기를 설정할 수 있어요.</p></section>
 <footer>천자문 250구 · 63과 · 삽화: AI 생성 · 낭독: HeyGen 합성음성<br/><a href="https://github.com/yanchunnu/-1000">교재·음원 저장소</a></footer>
-</main><script src="data.js"></script><script src="player.js"></script></body></html>
+</main><script src="data.js"></script><script src="player.js?v=2"></script></body></html>
 

@@ -1,0 +1,1154 @@
+{
+  "ko": {
+    "file": "audio/full-ko.mp3",
+    "duration_seconds": 318.2294,
+    "bytes": 3819725,
+    "sha256": "c002631e37eb745c0116f86391dde88a69ded3ff8a6a9e595f50049ce7068505",
+    "composition": "63 lessons joined in order at original speed, with 0.18 second gaps",
+    "chapters": [
+      {
+        "lesson": 1,
+        "verse_start": 1,
+        "verse_end": 4,
+        "start_seconds": 0.0,
+        "end_seconds": 5.982,
+        "source": "lesson-01-ko.mp3",
+        "source_sha256": "4a36443f458d493aee6a85a2cdcf931551ff568fde1b348ed22ec4f62d66f559"
+      },
+      {
+        "lesson": 2,
+        "verse_start": 5,
+        "verse_end": 8,
+        "start_seconds": 6.162,
+        "end_seconds": 10.9424,
+        "source": "lesson-02-ko.mp3",
+        "source_sha256": "7785abe824a3b74cc267fcc7b695763e91ef070dbbb45617e394fd09d0ce2970"
+      },
+      {
+        "lesson": 3,
+        "verse_start": 9,
+        "verse_end": 12,
+        "start_seconds": 11.1224,
+        "end_seconds": 15.9551,
+        "source": "lesson-03-ko.mp3",
+        "source_sha256": "c684785cb817cbd70fb84fa93587706f688d64e3102d1337036230ff751672af"
+      },
+      {
+        "lesson": 4,
+        "verse_start": 13,
+        "verse_end": 16,
+        "start_seconds": 16.1351,
+        "end_seconds": 20.5759,
+        "source": "lesson-04-ko.mp3",
+        "source_sha256": "2c85d8907cd459e4043f59cb632e9661fe1ad2a44c930507d9225bcada729adb"
+      },
+      {
+        "lesson": 5,
+        "verse_start": 17,
+        "verse_end": 20,
+        "start_seconds": 20.7559,
+        "end_seconds": 25.7192,
+        "source": "lesson-05-ko.mp3",
+        "source_sha256": "e1684574f5084385a8bdb01cec2670f4f7162cf604c6e26c06e9cf2d65e49852"
+      },
+      {
+        "lesson": 6,
+        "verse_start": 21,
+        "verse_end": 24,
+        "start_seconds": 25.8992,
+        "end_seconds": 30.7318,
+        "source": "lesson-06-ko.mp3",
+        "source_sha256": "0dae0bb182fe13910122007f94a8ca3b50c5d1507ccfeadb934dd57d130f15b0"
+      },
+      {
+        "lesson": 7,
+        "verse_start": 25,
+        "verse_end": 28,
+        "start_seconds": 30.9118,
+        "end_seconds": 35.3265,
+        "source": "lesson-07-ko.mp3",
+        "source_sha256": "18bbd007fed68ded3b27f4987ac2288978688b356dd621a4797a660f5eb8dce2"
+      },
+      {
+        "lesson": 8,
+        "verse_start": 29,
+        "verse_end": 32,
+        "start_seconds": 35.5065,
+        "end_seconds": 40.3914,
+        "source": "lesson-08-ko.mp3",
+        "source_sha256": "a00202ac2475bc03b9d56f4361098761118d37228263e753f4060da016b4f6b7"
+      },
+      {
+        "lesson": 9,
+        "verse_start": 33,
+        "verse_end": 36,
+        "start_seconds": 40.5714,
+        "end_seconds": 45.7176,
+        "source": "lesson-09-ko.mp3",
+        "source_sha256": "f0fb45159799a764b05b3d77571782c7c35d5252e35b9a8d81b98d7ef7617ec7"
+      },
+      {
+        "lesson": 10,
+        "verse_start": 37,
+        "verse_end": 40,
+        "start_seconds": 45.8976,
+        "end_seconds": 51.0437,
+        "source": "lesson-10-ko.mp3",
+        "source_sha256": "44453c693c562f713a79ce9a2a838672bd8dbf25c42633e579c1de52f1a9a9a3"
+      },
+      {
+        "lesson": 11,
+        "verse_start": 41,
+        "verse_end": 44,
+        "start_seconds": 51.2237,
+        "end_seconds": 55.5078,
+        "source": "lesson-11-ko.mp3",
+        "source_sha256": "3b266c13cb66acdf4b1e4aa88ba44cba1bd2e7e3e89145a01b91d806b5d30c9d"
+      },
+      {
+        "lesson": 12,
+        "verse_start": 45,
+        "verse_end": 48,
+        "start_seconds": 55.6878,
+        "end_seconds": 60.3898,
+        "source": "lesson-12-ko.mp3",
+        "source_sha256": "dc3785a59391caa73bd865ad3a18814b9b538e9e7e9fe0a3cbb2ef9b329920f4"
+      },
+      {
+        "lesson": 13,
+        "verse_start": 49,
+        "verse_end": 52,
+        "start_seconds": 60.5698,
+        "end_seconds": 65.5331,
+        "source": "lesson-13-ko.mp3",
+        "source_sha256": "f25bd1bc6f6fdc55e9fded4479c03a0d57c0ad9b06c1b58cff19e4bfeb706c68"
+      },
+      {
+        "lesson": 14,
+        "verse_start": 53,
+        "verse_end": 56,
+        "start_seconds": 65.7131,
+        "end_seconds": 70.7286,
+        "source": "lesson-14-ko.mp3",
+        "source_sha256": "ba88ce65b529fbe08816587248b722b7ca0fd16575718a86588d138f33ff464f"
+      },
+      {
+        "lesson": 15,
+        "verse_start": 57,
+        "verse_end": 60,
+        "start_seconds": 70.9086,
+        "end_seconds": 75.271,
+        "source": "lesson-15-ko.mp3",
+        "source_sha256": "ac292dd6fbea6bd02103162e3732a6cf9040446236e6d2072379b3b503700d00"
+      },
+      {
+        "lesson": 16,
+        "verse_start": 61,
+        "verse_end": 64,
+        "start_seconds": 75.451,
+        "end_seconds": 81.4331,
+        "source": "lesson-16-ko.mp3",
+        "source_sha256": "2cebc0b27d50351586e9f1e515a110523217db136e87d8c9baee7cb26c507cb9"
+      },
+      {
+        "lesson": 17,
+        "verse_start": 65,
+        "verse_end": 68,
+        "start_seconds": 81.6131,
+        "end_seconds": 86.4457,
+        "source": "lesson-17-ko.mp3",
+        "source_sha256": "c2672f41c15b6a00a1c947751ceea1d290d6168faaf0a425d15879d149d86302"
+      },
+      {
+        "lesson": 18,
+        "verse_start": 69,
+        "verse_end": 72,
+        "start_seconds": 86.6257,
+        "end_seconds": 91.798,
+        "source": "lesson-18-ko.mp3",
+        "source_sha256": "3807689255455fda46136e716a3991bd001a9604f2bab8e282f42143eb8e6c41"
+      },
+      {
+        "lesson": 19,
+        "verse_start": 73,
+        "verse_end": 76,
+        "start_seconds": 91.978,
+        "end_seconds": 96.6016,
+        "source": "lesson-19-ko.mp3",
+        "source_sha256": "ff1fad99f8f34a92231d19bba7f475ca6294dc307048416caaf1fcaffb001ab9"
+      },
+      {
+        "lesson": 20,
+        "verse_start": 77,
+        "verse_end": 80,
+        "start_seconds": 96.7816,
+        "end_seconds": 102.0061,
+        "source": "lesson-20-ko.mp3",
+        "source_sha256": "bfc8614cf43c25819186f9bc76af3ef8ab6d06dbdd7242434604ad1c2280bf7c"
+      },
+      {
+        "lesson": 21,
+        "verse_start": 81,
+        "verse_end": 84,
+        "start_seconds": 102.1861,
+        "end_seconds": 106.6008,
+        "source": "lesson-21-ko.mp3",
+        "source_sha256": "e876a16d31c61477c0d5e910f9005cf4b948d2e0cade841ee7db38da63a4e467"
+      },
+      {
+        "lesson": 22,
+        "verse_start": 85,
+        "verse_end": 88,
+        "start_seconds": 106.7808,
+        "end_seconds": 111.1171,
+        "source": "lesson-22-ko.mp3",
+        "source_sha256": "49e1b3ec2db828d5089130b221bc4dbf65f8b38b837330b0a023574cd874e195"
+      },
+      {
+        "lesson": 23,
+        "verse_start": 89,
+        "verse_end": 92,
+        "start_seconds": 111.2971,
+        "end_seconds": 116.3388,
+        "source": "lesson-23-ko.mp3",
+        "source_sha256": "b96f9e779a571782c96853fe871e664211e1a8614e9ea53f5ded4cef8506af6f"
+      },
+      {
+        "lesson": 24,
+        "verse_start": 93,
+        "verse_end": 96,
+        "start_seconds": 116.5188,
+        "end_seconds": 120.9335,
+        "source": "lesson-24-ko.mp3",
+        "source_sha256": "f03fb72273add1546a19ecfbd8f4ae5b21b6142f84b7b0a7e220c4ef28b3b2e2"
+      },
+      {
+        "lesson": 25,
+        "verse_start": 97,
+        "verse_end": 100,
+        "start_seconds": 121.1135,
+        "end_seconds": 125.6588,
+        "source": "lesson-25-ko.mp3",
+        "source_sha256": "75e33e5457c4852c29657175bf79e3c821a06281a38c3e7c51a66bc916354801"
+      },
+      {
+        "lesson": 26,
+        "verse_start": 101,
+        "verse_end": 104,
+        "start_seconds": 125.8388,
+        "end_seconds": 130.9849,
+        "source": "lesson-26-ko.mp3",
+        "source_sha256": "48e6310e54b62d59973d8f2c56f8ff747d81b5c085f8af2c0990235f765d7352"
+      },
+      {
+        "lesson": 27,
+        "verse_start": 105,
+        "verse_end": 108,
+        "start_seconds": 131.1649,
+        "end_seconds": 135.9192,
+        "source": "lesson-27-ko.mp3",
+        "source_sha256": "1f849285eaf3e984b00f5df419484826d6749cf7ddc36204a66bb7adf9f2d64a"
+      },
+      {
+        "lesson": 28,
+        "verse_start": 109,
+        "verse_end": 112,
+        "start_seconds": 136.0992,
+        "end_seconds": 140.8535,
+        "source": "lesson-28-ko.mp3",
+        "source_sha256": "42aa274ed9cba4bd32bcadee6323441aa004e275ab66852696e5f4c99416ae85"
+      },
+      {
+        "lesson": 29,
+        "verse_start": 113,
+        "verse_end": 116,
+        "start_seconds": 141.0335,
+        "end_seconds": 146.0751,
+        "source": "lesson-29-ko.mp3",
+        "source_sha256": "92ad621e77cdc010393c57ccc55d13ceb515e35ba5086e471298a9a8120eb651"
+      },
+      {
+        "lesson": 30,
+        "verse_start": 117,
+        "verse_end": 120,
+        "start_seconds": 146.2551,
+        "end_seconds": 151.8453,
+        "source": "lesson-30-ko.mp3",
+        "source_sha256": "005dbbb8fd818648d973c83af27d804400a3306c1aed0ee425e6e905bb3bf765"
+      },
+      {
+        "lesson": 31,
+        "verse_start": 121,
+        "verse_end": 124,
+        "start_seconds": 152.0253,
+        "end_seconds": 158.2686,
+        "source": "lesson-31-ko.mp3",
+        "source_sha256": "a2583615d3c22a155529f8b586e6e323852f5a6732720ec7217475e5f1fba454"
+      },
+      {
+        "lesson": 32,
+        "verse_start": 125,
+        "verse_end": 128,
+        "start_seconds": 158.4486,
+        "end_seconds": 162.9416,
+        "source": "lesson-32-ko.mp3",
+        "source_sha256": "827ee7a22dfc703d583884a08ba7b9f182db8248b1643ce77366f0ea8d22c8bf"
+      },
+      {
+        "lesson": 33,
+        "verse_start": 129,
+        "verse_end": 132,
+        "start_seconds": 163.1216,
+        "end_seconds": 168.4767,
+        "source": "lesson-33-ko.mp3",
+        "source_sha256": "40ad5cdb5e3facccf6dd52547c916c813b426471b8d45c47dc86be1c28a9da2c"
+      },
+      {
+        "lesson": 34,
+        "verse_start": 133,
+        "verse_end": 136,
+        "start_seconds": 168.6567,
+        "end_seconds": 174.2208,
+        "source": "lesson-34-ko.mp3",
+        "source_sha256": "b2d5b8aeaabe5228fc56a434c976319f78e90ca108c4143ea844ddb4e8102439"
+      },
+      {
+        "lesson": 35,
+        "verse_start": 137,
+        "verse_end": 140,
+        "start_seconds": 174.4008,
+        "end_seconds": 179.2857,
+        "source": "lesson-35-ko.mp3",
+        "source_sha256": "9650655cc86527f998e4e3c4348c26f10e11217a251c0716f65f095a1a3be49b"
+      },
+      {
+        "lesson": 36,
+        "verse_start": 141,
+        "verse_end": 144,
+        "start_seconds": 179.4657,
+        "end_seconds": 184.1678,
+        "source": "lesson-36-ko.mp3",
+        "source_sha256": "fef490b98ba493443cf802cc2f4aa0372d2a098af603e3ab78bad0f4d8cc447a"
+      },
+      {
+        "lesson": 37,
+        "verse_start": 145,
+        "verse_end": 148,
+        "start_seconds": 184.3478,
+        "end_seconds": 189.729,
+        "source": "lesson-37-ko.mp3",
+        "source_sha256": "141739810eddd2ec833ac842122d75fab42d122a679e066145f2b5e90d242c3e"
+      },
+      {
+        "lesson": 38,
+        "verse_start": 149,
+        "verse_end": 152,
+        "start_seconds": 189.909,
+        "end_seconds": 194.611,
+        "source": "lesson-38-ko.mp3",
+        "source_sha256": "36cd9d8459b501dc6a757ebd9fc64e85ffbd262773ab598857bbffbe8d8bc8e7"
+      },
+      {
+        "lesson": 39,
+        "verse_start": 153,
+        "verse_end": 156,
+        "start_seconds": 194.791,
+        "end_seconds": 200.0939,
+        "source": "lesson-39-ko.mp3",
+        "source_sha256": "a38ac05f4d5409f353552480fa75cbf287f9936f205efb7a4ca2d2a25417d4a3"
+      },
+      {
+        "lesson": 40,
+        "verse_start": 157,
+        "verse_end": 160,
+        "start_seconds": 200.2739,
+        "end_seconds": 204.7147,
+        "source": "lesson-40-ko.mp3",
+        "source_sha256": "41a47fa090ba696b7fa02b07e775758fe816c69fd9d6736f2b15744246b2d208"
+      },
+      {
+        "lesson": 41,
+        "verse_start": 161,
+        "verse_end": 164,
+        "start_seconds": 204.8947,
+        "end_seconds": 209.0482,
+        "source": "lesson-41-ko.mp3",
+        "source_sha256": "f2fa12195659efc91b42befb702a2020c63a79b6fce00ac20ef967fc080a7fef"
+      },
+      {
+        "lesson": 42,
+        "verse_start": 165,
+        "verse_end": 168,
+        "start_seconds": 209.2282,
+        "end_seconds": 214.531,
+        "source": "lesson-42-ko.mp3",
+        "source_sha256": "7a262ba93b58ce508786dd90527711ce93e57828af0a392f5ca29c90a88d9cf8"
+      },
+      {
+        "lesson": 43,
+        "verse_start": 169,
+        "verse_end": 172,
+        "start_seconds": 214.711,
+        "end_seconds": 219.6743,
+        "source": "lesson-43-ko.mp3",
+        "source_sha256": "ec864e6c4b19f1d75226c352a2dfdd0a8e521b8d6b59fc66c3ab6dcde57ea2b8"
+      },
+      {
+        "lesson": 44,
+        "verse_start": 173,
+        "verse_end": 176,
+        "start_seconds": 219.8543,
+        "end_seconds": 224.2167,
+        "source": "lesson-44-ko.mp3",
+        "source_sha256": "e69335a313c902fa87fccf44202a1f09fbb01b121829e2b6855604a505132456"
+      },
+      {
+        "lesson": 45,
+        "verse_start": 177,
+        "verse_end": 180,
+        "start_seconds": 224.3967,
+        "end_seconds": 230.1176,
+        "source": "lesson-45-ko.mp3",
+        "source_sha256": "2c5f054079429155db5639d08b46e34f2245e40e90b0ac1ffe5f7115181e7cea"
+      },
+      {
+        "lesson": 46,
+        "verse_start": 181,
+        "verse_end": 184,
+        "start_seconds": 230.2976,
+        "end_seconds": 235.1302,
+        "source": "lesson-46-ko.mp3",
+        "source_sha256": "cae98b6c56b64d3e59454ccab1a9395374ee1f3ec2d26a731733cd957f88d648"
+      },
+      {
+        "lesson": 47,
+        "verse_start": 185,
+        "verse_end": 188,
+        "start_seconds": 235.3102,
+        "end_seconds": 240.0122,
+        "source": "lesson-47-ko.mp3",
+        "source_sha256": "a08d3981473fca3c0d7d1866e356c751cb98560f446d0ad56f2603b3baff9258"
+      },
+      {
+        "lesson": 48,
+        "verse_start": 189,
+        "verse_end": 192,
+        "start_seconds": 240.1922,
+        "end_seconds": 245.469,
+        "source": "lesson-48-ko.mp3",
+        "source_sha256": "165a77c5c08b552aec86a727a382684d648a3968e4e991b60595700f61074a70"
+      },
+      {
+        "lesson": 49,
+        "verse_start": 193,
+        "verse_end": 196,
+        "start_seconds": 245.649,
+        "end_seconds": 250.4816,
+        "source": "lesson-49-ko.mp3",
+        "source_sha256": "18879f84f36482c295decb1e2908154245c7cfb6013820888962e3de04dd8914"
+      },
+      {
+        "lesson": 50,
+        "verse_start": 197,
+        "verse_end": 200,
+        "start_seconds": 250.6616,
+        "end_seconds": 255.6249,
+        "source": "lesson-50-ko.mp3",
+        "source_sha256": "fabb618b26e7ef007f8bb276737995163b228ea7e6bf4d138825fc678e2ee971"
+      },
+      {
+        "lesson": 51,
+        "verse_start": 201,
+        "verse_end": 204,
+        "start_seconds": 255.8049,
+        "end_seconds": 260.5069,
+        "source": "lesson-51-ko.mp3",
+        "source_sha256": "67847a69ce81da792699ac16671978d8ddd0d22e7d61248c055879420b0e1473"
+      },
+      {
+        "lesson": 52,
+        "verse_start": 205,
+        "verse_end": 208,
+        "start_seconds": 260.6869,
+        "end_seconds": 265.18,
+        "source": "lesson-52-ko.mp3",
+        "source_sha256": "9ff59a802bec0c9a78a70800ef8b966b5919f00f010cb7d554a9fb1657787b2b"
+      },
+      {
+        "lesson": 53,
+        "verse_start": 209,
+        "verse_end": 212,
+        "start_seconds": 265.36,
+        "end_seconds": 271.0808,
+        "source": "lesson-53-ko.mp3",
+        "source_sha256": "84d9572c56ce89d2b5dc2b53092c133b96c624cd977f661cc1d595c8b7b48b7e"
+      },
+      {
+        "lesson": 54,
+        "verse_start": 213,
+        "verse_end": 216,
+        "start_seconds": 271.2608,
+        "end_seconds": 275.7539,
+        "source": "lesson-54-ko.mp3",
+        "source_sha256": "cae2ec40d0f7eb5b5cab159aae0122871e1ead862a6d5aa153fada403df36943"
+      },
+      {
+        "lesson": 55,
+        "verse_start": 217,
+        "verse_end": 220,
+        "start_seconds": 275.9339,
+        "end_seconds": 281.0278,
+        "source": "lesson-55-ko.mp3",
+        "source_sha256": "77eb25965765708ec594237b05664438dec77e669b6b72aeff941c222133f054"
+      },
+      {
+        "lesson": 56,
+        "verse_start": 221,
+        "verse_end": 224,
+        "start_seconds": 281.2078,
+        "end_seconds": 286.0927,
+        "source": "lesson-56-ko.mp3",
+        "source_sha256": "b424dfd77fc05d6e635ba7750036209b7b4a12181201eebd4db99039a195a9c8"
+      },
+      {
+        "lesson": 57,
+        "verse_start": 225,
+        "verse_end": 228,
+        "start_seconds": 286.2727,
+        "end_seconds": 290.5045,
+        "source": "lesson-57-ko.mp3",
+        "source_sha256": "60b4c980f1d58be1d98155bc411d52e53f0798a36d3da7c2df907162ad712df3"
+      },
+      {
+        "lesson": 58,
+        "verse_start": 229,
+        "verse_end": 232,
+        "start_seconds": 290.6845,
+        "end_seconds": 294.7073,
+        "source": "lesson-58-ko.mp3",
+        "source_sha256": "3e6510447d71bdf956d4349910f2cab44515a025bc32ee35d09ee80536246b25"
+      },
+      {
+        "lesson": 59,
+        "verse_start": 233,
+        "verse_end": 236,
+        "start_seconds": 294.8873,
+        "end_seconds": 300.2686,
+        "source": "lesson-59-ko.mp3",
+        "source_sha256": "3a35f45818f5df65cdbc489647c096cbe90e7d269862fe3cfef28c7502ab2b0d"
+      },
+      {
+        "lesson": 60,
+        "verse_start": 237,
+        "verse_end": 240,
+        "start_seconds": 300.4486,
+        "end_seconds": 305.6208,
+        "source": "lesson-60-ko.mp3",
+        "source_sha256": "b0417712e6ff1d3f1ddb6436a426373be01cf762caed2cbc0e91f343383aa4e3"
+      },
+      {
+        "lesson": 61,
+        "verse_start": 241,
+        "verse_end": 244,
+        "start_seconds": 305.8008,
+        "end_seconds": 310.6335,
+        "source": "lesson-61-ko.mp3",
+        "source_sha256": "839314b58a0205e6f23b3244deecf25ff568a90bc4bf07e0e218ee8fb71311b8"
+      },
+      {
+        "lesson": 62,
+        "verse_start": 245,
+        "verse_end": 248,
+        "start_seconds": 310.8135,
+        "end_seconds": 315.7767,
+        "source": "lesson-62-ko.mp3",
+        "source_sha256": "454adca1c1c67988dca8227c50cf19efff9b5ed4a152b2060473de89fc84abe0"
+      },
+      {
+        "lesson": 63,
+        "verse_start": 249,
+        "verse_end": 250,
+        "start_seconds": 315.9567,
+        "end_seconds": 318.2294,
+        "source": "lesson-63-ko.mp3",
+        "source_sha256": "666cdeb40614ec30f226ece938174dd2c9cff6e77eecdec7d25401707b726be3"
+      }
+    ]
+  },
+  "zh": {
+    "file": "audio/full-zh.mp3",
+    "duration_seconds": 329.6188,
+    "bytes": 3956398,
+    "sha256": "ad253ae05eb5063c7bd6e7945f5b71497676c5d38f2e4f858f69ce25c0e4a5aa",
+    "composition": "63 lessons joined in order at original speed, with 0.18 second gaps",
+    "chapters": [
+      {
+        "lesson": 1,
+        "verse_start": 1,
+        "verse_end": 4,
+        "start_seconds": 0.0,
+        "end_seconds": 5.6424,
+        "source": "lesson-01-zh.mp3",
+        "source_sha256": "519a298adace3185569551c34616fb404cb06f0a15bf54a4b79e132f636e7b38"
+      },
+      {
+        "lesson": 2,
+        "verse_start": 5,
+        "verse_end": 8,
+        "start_seconds": 5.8224,
+        "end_seconds": 10.7335,
+        "source": "lesson-02-zh.mp3",
+        "source_sha256": "d7718affc786d2930276cee48e40dd7243c86214f7d917a0c7618ac7a2e36059"
+      },
+      {
+        "lesson": 3,
+        "verse_start": 9,
+        "verse_end": 12,
+        "start_seconds": 10.9135,
+        "end_seconds": 15.6678,
+        "source": "lesson-03-zh.mp3",
+        "source_sha256": "496783a5f45b968c9651538ac602515c19a45efee4d36d22d85a28a286a88f9d"
+      },
+      {
+        "lesson": 4,
+        "verse_start": 13,
+        "verse_end": 16,
+        "start_seconds": 15.8478,
+        "end_seconds": 20.0796,
+        "source": "lesson-04-zh.mp3",
+        "source_sha256": "0971ef7d7471d86d473c559592be726c1fc21c4a4a0fbac5da35efab313a1bd7"
+      },
+      {
+        "lesson": 5,
+        "verse_start": 17,
+        "verse_end": 20,
+        "start_seconds": 20.2596,
+        "end_seconds": 25.6147,
+        "source": "lesson-05-zh.mp3",
+        "source_sha256": "9dfc5b0a98f487496e1405c3d9fb410c626402474307732ed53bfb842b8b2dee"
+      },
+      {
+        "lesson": 6,
+        "verse_start": 21,
+        "verse_end": 24,
+        "start_seconds": 25.7947,
+        "end_seconds": 31.0192,
+        "source": "lesson-06-zh.mp3",
+        "source_sha256": "59dac8e8b1b1f7c160724c05f1552a15c5c7cab2cced1c739d64f82a8a863e70"
+      },
+      {
+        "lesson": 7,
+        "verse_start": 25,
+        "verse_end": 28,
+        "start_seconds": 31.1992,
+        "end_seconds": 36.2408,
+        "source": "lesson-07-zh.mp3",
+        "source_sha256": "f2fa42ec3ad09608a5cb88b1363ee255f3802bfc4c4b4db3118cbb4b6164b3b3"
+      },
+      {
+        "lesson": 8,
+        "verse_start": 29,
+        "verse_end": 32,
+        "start_seconds": 36.4208,
+        "end_seconds": 41.6976,
+        "source": "lesson-08-zh.mp3",
+        "source_sha256": "2e4bb3d41323797dfb662672bfa68c5273f8551189b4a40500c772810e9a9c6a"
+      },
+      {
+        "lesson": 9,
+        "verse_start": 33,
+        "verse_end": 36,
+        "start_seconds": 41.8776,
+        "end_seconds": 47.4416,
+        "source": "lesson-09-zh.mp3",
+        "source_sha256": "798c3c4c868fbd965261488d1c26f99710844fc0fe0a58dee3835ca4a3419c72"
+      },
+      {
+        "lesson": 10,
+        "verse_start": 37,
+        "verse_end": 40,
+        "start_seconds": 47.6216,
+        "end_seconds": 52.9245,
+        "source": "lesson-10-zh.mp3",
+        "source_sha256": "a822c05e8573ab6dd7ec765dc8a84a3de53f8fc1cadd71a9ea1d255190c7b020"
+      },
+      {
+        "lesson": 11,
+        "verse_start": 41,
+        "verse_end": 44,
+        "start_seconds": 53.1045,
+        "end_seconds": 58.1461,
+        "source": "lesson-11-zh.mp3",
+        "source_sha256": "0498059ff1d3e3067a2d2ee12b38ee4d97ceaa35a845420f8b74b65634b124eb"
+      },
+      {
+        "lesson": 12,
+        "verse_start": 45,
+        "verse_end": 48,
+        "start_seconds": 58.3261,
+        "end_seconds": 63.6812,
+        "source": "lesson-12-zh.mp3",
+        "source_sha256": "4e13aefb54dd2cb03848345a71d7182153e4e9eedab0355fee3a351fc924628b"
+      },
+      {
+        "lesson": 13,
+        "verse_start": 49,
+        "verse_end": 52,
+        "start_seconds": 63.8612,
+        "end_seconds": 69.3731,
+        "source": "lesson-13-zh.mp3",
+        "source_sha256": "1a282a0d7b161c26cb678e79029fdc583ef2522cf1a4a319f5d83b239d204313"
+      },
+      {
+        "lesson": 14,
+        "verse_start": 53,
+        "verse_end": 56,
+        "start_seconds": 69.5531,
+        "end_seconds": 74.3335,
+        "source": "lesson-14-zh.mp3",
+        "source_sha256": "64fb55421f9e405363caf04d712c0b210b76747f8b4a8952a1be2c181a2d9afc"
+      },
+      {
+        "lesson": 15,
+        "verse_start": 57,
+        "verse_end": 60,
+        "start_seconds": 74.5135,
+        "end_seconds": 80.3388,
+        "source": "lesson-15-zh.mp3",
+        "source_sha256": "22e71f77b7c1042866cdcaaac3e3d89fc560d1eb065f11897e379cff5026fcbf"
+      },
+      {
+        "lesson": 16,
+        "verse_start": 61,
+        "verse_end": 64,
+        "start_seconds": 80.5188,
+        "end_seconds": 85.482,
+        "source": "lesson-16-zh.mp3",
+        "source_sha256": "cbe12920eff71658b0e1c6f93d082a02ffd6d5ed7a51a086e5203a9e1a042fe9"
+      },
+      {
+        "lesson": 17,
+        "verse_start": 65,
+        "verse_end": 68,
+        "start_seconds": 85.662,
+        "end_seconds": 90.4424,
+        "source": "lesson-17-zh.mp3",
+        "source_sha256": "a8a50f6baac35c75a2f3ad07813c34a74a30bfdd76802f1f1a92d05a19e39b68"
+      },
+      {
+        "lesson": 18,
+        "verse_start": 69,
+        "verse_end": 72,
+        "start_seconds": 90.6224,
+        "end_seconds": 97.2053,
+        "source": "lesson-18-zh.mp3",
+        "source_sha256": "2b782cb79471a1f6bd61e10c4ba7ebbf627b12e0fd6cbe08d2120a5097ba68ff"
+      },
+      {
+        "lesson": 19,
+        "verse_start": 73,
+        "verse_end": 76,
+        "start_seconds": 97.3853,
+        "end_seconds": 102.5314,
+        "source": "lesson-19-zh.mp3",
+        "source_sha256": "c53b634469e0f437959f4a4f8f06f93222411656dd31903c914e492054469767"
+      },
+      {
+        "lesson": 20,
+        "verse_start": 77,
+        "verse_end": 80,
+        "start_seconds": 102.7114,
+        "end_seconds": 107.4657,
+        "source": "lesson-20-zh.mp3",
+        "source_sha256": "1cb965e1449d5e385f0e0cc4db36f14d8ac0aead3fc22eabef64b567bf8cdabe"
+      },
+      {
+        "lesson": 21,
+        "verse_start": 81,
+        "verse_end": 84,
+        "start_seconds": 107.6457,
+        "end_seconds": 113.2098,
+        "source": "lesson-21-zh.mp3",
+        "source_sha256": "e7636cf07603aa0ed403f1349223b0bddeb84ca3563982b16b23915b6dd2b0a8"
+      },
+      {
+        "lesson": 22,
+        "verse_start": 85,
+        "verse_end": 88,
+        "start_seconds": 113.3898,
+        "end_seconds": 118.3008,
+        "source": "lesson-22-zh.mp3",
+        "source_sha256": "94d9919de7b556e1737f3feaaf1b56fb71bbb0bd2db2a1adca4ebbd26ca4bb76"
+      },
+      {
+        "lesson": 23,
+        "verse_start": 89,
+        "verse_end": 92,
+        "start_seconds": 118.4808,
+        "end_seconds": 123.4963,
+        "source": "lesson-23-zh.mp3",
+        "source_sha256": "c1ff104f4cb65271ab10b435931e73c3d42c66b67aa46e06b31bda033f40fff6"
+      },
+      {
+        "lesson": 24,
+        "verse_start": 93,
+        "verse_end": 96,
+        "start_seconds": 123.6763,
+        "end_seconds": 128.3261,
+        "source": "lesson-24-zh.mp3",
+        "source_sha256": "2b99c1683f023b2e7957cfe9094b912dbd17b77a3939e0fd49c2ee55bd269d69"
+      },
+      {
+        "lesson": 25,
+        "verse_start": 97,
+        "verse_end": 100,
+        "start_seconds": 128.5061,
+        "end_seconds": 133.1298,
+        "source": "lesson-25-zh.mp3",
+        "source_sha256": "a1ba7e518c4331e573e5b32db0ce92f88c884d35eae44e885492200e23d00982"
+      },
+      {
+        "lesson": 26,
+        "verse_start": 101,
+        "verse_end": 104,
+        "start_seconds": 133.3098,
+        "end_seconds": 138.4559,
+        "source": "lesson-26-zh.mp3",
+        "source_sha256": "1efc502eb045656e48579e131a5a76b698c6def4336a497feba057a09c2fd60b"
+      },
+      {
+        "lesson": 27,
+        "verse_start": 105,
+        "verse_end": 108,
+        "start_seconds": 138.6359,
+        "end_seconds": 143.4686,
+        "source": "lesson-27-zh.mp3",
+        "source_sha256": "e5dc66b28ac80c9f25d714ff37c1ced143342a591f06aa43d6efa01a3c68deac"
+      },
+      {
+        "lesson": 28,
+        "verse_start": 109,
+        "verse_end": 112,
+        "start_seconds": 143.6486,
+        "end_seconds": 148.7947,
+        "source": "lesson-28-zh.mp3",
+        "source_sha256": "5a1efb798456e00b2335283276b414237001297d5a2539c22a6549553ae39cb6"
+      },
+      {
+        "lesson": 29,
+        "verse_start": 113,
+        "verse_end": 116,
+        "start_seconds": 148.9747,
+        "end_seconds": 153.8596,
+        "source": "lesson-29-zh.mp3",
+        "source_sha256": "b4320749ed279d6787c3829f70fcb1e33f785b91b7da83fc660d4833fa53accc"
+      },
+      {
+        "lesson": 30,
+        "verse_start": 117,
+        "verse_end": 120,
+        "start_seconds": 154.0396,
+        "end_seconds": 158.6633,
+        "source": "lesson-30-zh.mp3",
+        "source_sha256": "825452e6a04bb320f1817cd313c6d8bcac02302a1d5f87b024569130d2cf98a4"
+      },
+      {
+        "lesson": 31,
+        "verse_start": 121,
+        "verse_end": 124,
+        "start_seconds": 158.8433,
+        "end_seconds": 164.2245,
+        "source": "lesson-31-zh.mp3",
+        "source_sha256": "3db53fd390a58c3fe8151a3971df6bb42a87efaea6f815017d632701a982fa8b"
+      },
+      {
+        "lesson": 32,
+        "verse_start": 125,
+        "verse_end": 128,
+        "start_seconds": 164.4045,
+        "end_seconds": 169.2894,
+        "source": "lesson-32-zh.mp3",
+        "source_sha256": "4b3fbec4111151e601d4e3cae8c99a3fcf7598d6e0d10d5e4eb367bc242a43a2"
+      },
+      {
+        "lesson": 33,
+        "verse_start": 129,
+        "verse_end": 132,
+        "start_seconds": 169.4694,
+        "end_seconds": 174.6155,
+        "source": "lesson-33-zh.mp3",
+        "source_sha256": "b5e4186a1aa568ffadc8190fe5cb59fe6007ec995ae462f5c78165d3c2c312e7"
+      },
+      {
+        "lesson": 34,
+        "verse_start": 133,
+        "verse_end": 136,
+        "start_seconds": 174.7955,
+        "end_seconds": 180.1767,
+        "source": "lesson-34-zh.mp3",
+        "source_sha256": "6796fba4d4be1c25db35e43ce8bd41eda3ed5c5b4b84eaf6b9f4cb6efb9d0763"
+      },
+      {
+        "lesson": 35,
+        "verse_start": 137,
+        "verse_end": 140,
+        "start_seconds": 180.3567,
+        "end_seconds": 185.111,
+        "source": "lesson-35-zh.mp3",
+        "source_sha256": "0e14c590a03f3741da41837319cf9cf77a5b4b5d84a9f896d4f48ef0f0b7aa72"
+      },
+      {
+        "lesson": 36,
+        "verse_start": 141,
+        "verse_end": 144,
+        "start_seconds": 185.291,
+        "end_seconds": 190.8551,
+        "source": "lesson-36-zh.mp3",
+        "source_sha256": "e84ed47619590dcb109d4af35ec69a62c5e2269693e5f5ff2f498ed840411adc"
+      },
+      {
+        "lesson": 37,
+        "verse_start": 145,
+        "verse_end": 148,
+        "start_seconds": 191.0351,
+        "end_seconds": 195.9984,
+        "source": "lesson-37-zh.mp3",
+        "source_sha256": "52bc0b9600d17a41acaa405bff5e4f967b3b62cd46a6396d5cffbe099442d57c"
+      },
+      {
+        "lesson": 38,
+        "verse_start": 149,
+        "verse_end": 152,
+        "start_seconds": 196.1784,
+        "end_seconds": 200.802,
+        "source": "lesson-38-zh.mp3",
+        "source_sha256": "d0517ba6ef46541253b90e9df6917918e40f4c7c71daf4690e20e8f5ee069379"
+      },
+      {
+        "lesson": 39,
+        "verse_start": 153,
+        "verse_end": 156,
+        "start_seconds": 200.982,
+        "end_seconds": 206.1543,
+        "source": "lesson-39-zh.mp3",
+        "source_sha256": "daf898fa30504c06d2cdd4dced9a5f6e29e7dea87e085fdd878a9555e3ce532a"
+      },
+      {
+        "lesson": 40,
+        "verse_start": 157,
+        "verse_end": 160,
+        "start_seconds": 206.3343,
+        "end_seconds": 210.9841,
+        "source": "lesson-40-zh.mp3",
+        "source_sha256": "45fd5c5497c00695e1e9612aec0d6ca0ed673ce92271988543afa095fe524435"
+      },
+      {
+        "lesson": 41,
+        "verse_start": 161,
+        "verse_end": 164,
+        "start_seconds": 211.1641,
+        "end_seconds": 215.7355,
+        "source": "lesson-41-zh.mp3",
+        "source_sha256": "ec1a235ce6ad02998b7b9f2aecd7c263f99354bc8b739e279b95cdbf16e1ca45"
+      },
+      {
+        "lesson": 42,
+        "verse_start": 165,
+        "verse_end": 168,
+        "start_seconds": 215.9155,
+        "end_seconds": 221.349,
+        "source": "lesson-42-zh.mp3",
+        "source_sha256": "236395fde8f1fff1fdd2d2664e8d08c54c40feed00c0ba7ed81ddc737191dbaf"
+      },
+      {
+        "lesson": 43,
+        "verse_start": 169,
+        "verse_end": 172,
+        "start_seconds": 221.529,
+        "end_seconds": 226.1788,
+        "source": "lesson-43-zh.mp3",
+        "source_sha256": "1b1f9cbd9483fcfc004bc93b26bbb934eaa9efb78f01c1f374b549654b374a7d"
+      },
+      {
+        "lesson": 44,
+        "verse_start": 173,
+        "verse_end": 176,
+        "start_seconds": 226.3588,
+        "end_seconds": 231.8445,
+        "source": "lesson-44-zh.mp3",
+        "source_sha256": "0b5d7da93c0908670fd557a69b300dfc8a6ad148ba86327b6ebacc94d7281b4a"
+      },
+      {
+        "lesson": 45,
+        "verse_start": 177,
+        "verse_end": 180,
+        "start_seconds": 232.0245,
+        "end_seconds": 236.9878,
+        "source": "lesson-45-zh.mp3",
+        "source_sha256": "33d7957fa7d5286c74cf8b73e4046cdfe454a6e4c80588e2011bed16e2dd565e"
+      },
+      {
+        "lesson": 46,
+        "verse_start": 181,
+        "verse_end": 184,
+        "start_seconds": 237.1678,
+        "end_seconds": 242.8624,
+        "source": "lesson-46-zh.mp3",
+        "source_sha256": "a2a1456a7566242cd22cf6caf48203897f28b02914059d3f2f641e69b998cd6b"
+      },
+      {
+        "lesson": 47,
+        "verse_start": 185,
+        "verse_end": 188,
+        "start_seconds": 243.0424,
+        "end_seconds": 247.7445,
+        "source": "lesson-47-zh.mp3",
+        "source_sha256": "ef4e40e9d2f2dab058c6af3a806cb69616ea0deec0361f09295496ec4e361984"
+      },
+      {
+        "lesson": 48,
+        "verse_start": 189,
+        "verse_end": 192,
+        "start_seconds": 247.9245,
+        "end_seconds": 253.5147,
+        "source": "lesson-48-zh.mp3",
+        "source_sha256": "2c21961ce4ea128dadaf3f5158186657afeeba26c3ca5eb99593fbd73ddea1d4"
+      },
+      {
+        "lesson": 49,
+        "verse_start": 193,
+        "verse_end": 196,
+        "start_seconds": 253.6947,
+        "end_seconds": 258.4751,
+        "source": "lesson-49-zh.mp3",
+        "source_sha256": "7d3ec209ccf73aa02c5004da6bcf29a606c22a9a28fb3b42a79f1edb66cf02e4"
+      },
+      {
+        "lesson": 50,
+        "verse_start": 197,
+        "verse_end": 200,
+        "start_seconds": 258.6551,
+        "end_seconds": 263.54,
+        "source": "lesson-50-zh.mp3",
+        "source_sha256": "3d99c9f127e377e49af400c97c8fff456e1e22e10674630fa5c9e3c5b356b254"
+      },
+      {
+        "lesson": 51,
+        "verse_start": 201,
+        "verse_end": 204,
+        "start_seconds": 263.72,
+        "end_seconds": 268.7355,
+        "source": "lesson-51-zh.mp3",
+        "source_sha256": "4bc2ff4ea0ed548b9c42923d3db69bbdb616c5e32b4267f0cc1968f6fb533661"
+      },
+      {
+        "lesson": 52,
+        "verse_start": 205,
+        "verse_end": 208,
+        "start_seconds": 268.9155,
+        "end_seconds": 273.931,
+        "source": "lesson-52-zh.mp3",
+        "source_sha256": "2cb2e5e51b9914440ac481906f395a6b5a014e9d700ae36d463ed85c6a76026c"
+      },
+      {
+        "lesson": 53,
+        "verse_start": 209,
+        "verse_end": 212,
+        "start_seconds": 274.111,
+        "end_seconds": 279.2049,
+        "source": "lesson-53-zh.mp3",
+        "source_sha256": "1a589f2eaed603de24c0fcdbf5c2d05eb8b641a42c71022c15e424cbbeeaec73"
+      },
+      {
+        "lesson": 54,
+        "verse_start": 213,
+        "verse_end": 216,
+        "start_seconds": 279.3849,
+        "end_seconds": 284.531,
+        "source": "lesson-54-zh.mp3",
+        "source_sha256": "394db9fefbd97cfb1dde05aadbcfd0092c0a7e1d87a56f21455c7b01557be168"
+      },
+      {
+        "lesson": 55,
+        "verse_start": 217,
+        "verse_end": 220,
+        "start_seconds": 284.711,
+        "end_seconds": 290.4841,
+        "source": "lesson-55-zh.mp3",
+        "source_sha256": "439d5b794195ee0dedd5c4a221a242bf3d6cb8a032d1e5c4f6003f11be53d137"
+      },
+      {
+        "lesson": 56,
+        "verse_start": 221,
+        "verse_end": 224,
+        "start_seconds": 290.6641,
+        "end_seconds": 295.3139,
+        "source": "lesson-56-zh.mp3",
+        "source_sha256": "619fbf3577b5625c91d55b51ca9f379169412534f26dbfb942f9ddd449975944"
+      },
+      {
+        "lesson": 57,
+        "verse_start": 225,
+        "verse_end": 228,
+        "start_seconds": 295.4939,
+        "end_seconds": 300.1176,
+        "source": "lesson-57-zh.mp3",
+        "source_sha256": "d407bc95e5bab69dc9473b14e2a8092e12dc057dae94325f12594d237188e1d8"
+      },
+      {
+        "lesson": 58,
+        "verse_start": 229,
+        "verse_end": 232,
+        "start_seconds": 300.2976,
+        "end_seconds": 306.149,
+        "source": "lesson-58-zh.mp3",
+        "source_sha256": "4372911e7a06395425cde5203c20978f5b9142cccdd19bb8449755911f0253c6"
+      },
+      {
+        "lesson": 59,
+        "verse_start": 233,
+        "verse_end": 236,
+        "start_seconds": 306.329,
+        "end_seconds": 311.4229,
+        "source": "lesson-59-zh.mp3",
+        "source_sha256": "ddb7705565b4aaa45c6254daac1ce90885b00601dd99029a7734c3af4f50abd5"
+      },
+      {
+        "lesson": 60,
+        "verse_start": 237,
+        "verse_end": 240,
+        "start_seconds": 311.6029,
+        "end_seconds": 316.4878,
+        "source": "lesson-60-zh.mp3",
+        "source_sha256": "7fb16f75345f6b9601fc2e779b10429dcd3e72a426c6f948e68ae61267192167"
+      },
+      {
+        "lesson": 61,
+        "verse_start": 241,
+        "verse_end": 244,
+        "start_seconds": 316.6678,
+        "end_seconds": 321.8139,
+        "source": "lesson-61-zh.mp3",
+        "source_sha256": "87f00c79fc565cfd4cd1497babafa1f9a2a71a975679b1d9063ddb37f1277ab3"
+      },
+      {
+        "lesson": 62,
+        "verse_start": 245,
+        "verse_end": 248,
+        "start_seconds": 321.9939,
+        "end_seconds": 327.0355,
+        "source": "lesson-62-zh.mp3",
+        "source_sha256": "114aefe197c2375c57d5a713870be428d3cf59f6b4b8fa2e4029e85eaef8d32d"
+      },
+      {
+        "lesson": 63,
+        "verse_start": 249,
+        "verse_end": 250,
+        "start_seconds": 327.2155,
+        "end_seconds": 329.6188,
+        "source": "lesson-63-zh.mp3",
+        "source_sha256": "31aea2d518ebff3913dcb94fd86e8967e6421eb4e8eb6d3bd4a07d4adacef63d"
+      }
+    ]
+  }
+}

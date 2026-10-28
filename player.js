@@ -1,5 +1,5 @@
 'use strict';
-const $=id=>document.getElementById(id),audios=[$('ko'),$('zh')],speed=$('speed'),rate=$('rate'),buttons=$('buttons'),status=$('status'),selector=$('lesson');let active=audios[0],currentLesson=1;
+const $=id=>document.getElementById(id),lessonAudios=[$('ko'),$('zh')],audios=[...lessonAudios,$('full-ko'),$('full-zh')],speed=$('speed'),rate=$('rate'),buttons=$('buttons'),status=$('status'),selector=$('lesson');let active=audios[0],currentLesson=1;
 function setRate(value){const v=Number(value);speed.value=String(v);rate.textContent=v.toFixed(2)+'×';audios.forEach(a=>{a.playbackRate=v;a.defaultPlaybackRate=v});document.querySelectorAll('[data-rate]').forEach(b=>{const selected=Number(b.dataset.rate)===v;b.classList.toggle('selected',selected);b.setAttribute('aria-pressed',String(selected))})}
 [.5,.75,1,1.25,1.5].forEach(v=>{const b=document.createElement('button');b.type='button';b.textContent=v+'×';b.dataset.rate=String(v);b.addEventListener('click',()=>setRate(v));buttons.appendChild(b)});
 speed.addEventListener('input',()=>setRate(speed.value));$('repeat').addEventListener('change',e=>audios.forEach(a=>a.loop=e.target.checked));$('pause').addEventListener('click',()=>audios.forEach(a=>a.pause()));$('restart').addEventListener('click',()=>{active.currentTime=0;active.play().catch(()=>{status.textContent='재생 버튼을 눌러 주세요.'})});
@@ -14,7 +14,7 @@ const readings=part.map(r=>r.read),hans=part.map(r=>r.simple),pys=part.map(r=>r.
 lineText($('ko-text'),[readings.slice(0,2).join(' · '),readings.slice(2).join(' · ')].filter(Boolean));
 lineText($('zh-text'),[hans.slice(0,2).join(' · '),hans.slice(2).join(' · ')].filter(Boolean));
 lineText($('pinyin-text'),[pys.slice(0,2).join(' · '),pys.slice(2).join(' · ')].filter(Boolean));
-for(const a of audios){const path='audio/lesson-'+String(n).padStart(2,'0')+'-'+a.id+'.mp3';a.querySelector('source').src=path;a.setAttribute('aria-label',label+' '+(a.id==='ko'?'한국어':'중국어')+' 낭독');$('download-'+a.id).href=path;a.load()}
+for(const a of lessonAudios){const path='audio/lesson-'+String(n).padStart(2,'0')+'-'+a.id+'.mp3';a.querySelector('source').src=path+(n===1&&a.id==='zh'?'?v=2':'');a.setAttribute('aria-label',label+' '+(a.id==='ko'?'한국어':'중국어')+' 낭독');$('download-'+a.id).href=path;a.load()}
 const notes=[];for(const r of part){if(r.n===4)notes.push('宿는 별자리 수, xiù라고 읽어요.');if(r.n===140)notes.push('說은 부열을 가리키며, 중국어로 yuè라고 읽어요.');if(r.n===156)notes.push('禪은 산천 제사를 뜻하며 shàn으로 읽어요.');if(r.n===200)notes.push('屬은 귀를 기울인다는 뜻으로 zhǔ로 읽어요.');if(r.n===232)notes.push('任은 임공자의 성으로 rén으로 읽어요.')}
 $('pronunciation-note').textContent=notes.join(' ');$('pronunciation-note').hidden=!notes.length;
 $('study').replaceChildren();for(const r of part){const article=add($('study'),'article','verse','');add(article,'strong','','제'+r.n+'구 · '+r.read);add(article,'p','han',r.han);add(article,'p','',r.direct);add(article,'p','explain',r.explain)}

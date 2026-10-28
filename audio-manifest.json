@@ -10,10 +10,14 @@
   {
     "lesson": 1,
     "language": "zh",
-    "duration_seconds": 8.54,
-    "bytes": 273345,
-    "sha256": "7a1ef056a7df8d7863bc7cbd6d397e2ae30dd7b94cd2276638ef08a3325d0938",
-    "provenance": "Existing lesson 1 recording reused unchanged"
+    "duration_seconds": 5.6424,
+    "bytes": 68380,
+    "sha256": "519a298adace3185569551c34616fb404cb06f0a15bf54a4b79e132f636e7b38",
+    "text": "天地玄黄，宇宙洪荒。日月盈昃，辰秀列张。",
+    "written_text": "天地玄黄，宇宙洪荒。日月盈昃，辰宿列张。",
+    "voice_id": "6c364011f30747c9a0a89eec3787cadc",
+    "engine": "starfish",
+    "timestamp_check": true
   },
   {
     "lesson": 2,
